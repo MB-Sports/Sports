@@ -1,6 +1,13 @@
 {
   "categoryName": "News",
 "liveNow": [
+   {
+    "name": "Twitch Test",
+    "url": "https://www.twitch.tv/callofduty",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ce51a4e2-ed9a-41db-add1-38eaa8e830b4-profile_image-70x70.png",
+    "isFrom": "server",
+     "isLive": true
+  },
   {
     "name": "Geo News",
     "url": "q130lTDaua0",

@@ -3,7 +3,7 @@
 "liveNow": [
    {
     "name": "Twitch Test",
-    "url": "https://www.twitch.tv/rainbow6",
+    "url": "https://varun-iptv.netlify.app/player.html?videoUrl=https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/cac110f7-0711-421f-9341-c77b53ab63b5-profile_image-300x300.jpeg",
     "isFrom": "server",
      "isLive": true

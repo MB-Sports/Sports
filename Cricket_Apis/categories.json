@@ -1,11 +1,7 @@
 {
   
   "categories": [
-     {
-    "id": "news_channels.json",
-    "name": "News",
-    "icon": "https://cdn-icons-png.flaticon.com/512/2150/2150342.png"
-  },
+    
     {
     "id": "sports_channels.json",
     "name": "Sports",

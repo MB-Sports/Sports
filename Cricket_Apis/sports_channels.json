@@ -8,10 +8,18 @@
     "isFrom": "web",
      "isLive": true
   },
+  
   {
     "name": "A Sports HD",
     "url": "https://stream.crichd.vip/update/skys5.php",
     "logo": "https://i.ytimg.com/vi/inctsJs_qMI/mqdefault.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Net Geo",
+    "url": "https://tv247.us/watch/national-geographic-us-free-stream/",
+    "logo": "https://avpn.asia/wp-content/uploads/2016/03/National-Geographic-logo.png",
     "isFrom": "web",
      "isLive": true
   }

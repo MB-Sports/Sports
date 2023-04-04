@@ -3,7 +3,7 @@
 "liveNow": [
   {
     "name": "PTV Sports",
-    "url": "https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8",
+    "url": "http://starshare.live:8080/653753875756/086746427532/89",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyh86sc4lBOJQEoYmahrqdKV-jPpZmvB1dQ&usqp=CAU",
     "isFrom": "web",
      "isLive": true

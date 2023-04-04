@@ -3,14 +3,14 @@
 "liveNow": [
   {
     "name": "PTV Sports",
-    "url": "http://starshare.live:8080/live/653753875756/086746427532/89.m3u8",
+    "url": "http://starshare.live:8080/live/653753875756/086746427532/98854.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdyh86sc4lBOJQEoYmahrqdKV-jPpZmvB1dQ&usqp=CAU",
     "isFrom": "web",
      "isLive": true
   },
   {
     "name": "A Sports HD",
-    "url": "https://crichdplayer.xyz/embed2.php?id=skysp2&q=Sky%20Sports%20Cricket",
+    "url": "https://stream.crichd.vip/update/skys5.php",
     "logo": "https://i.ytimg.com/vi/inctsJs_qMI/mqdefault.jpg",
     "isFrom": "web",
      "isLive": true
